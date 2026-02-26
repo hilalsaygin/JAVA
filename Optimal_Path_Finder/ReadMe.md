@@ -1,4 +1,3 @@
-# Path Planning via Dijkstra and BFS - CSE 222/505
 
 ## Project Overview
 [cite_start]This project, implements a path planning system to find feasible paths through grid-based maps[cite: 5]. [cite_start]The system converts text-based map data into graph structures to calculate paths from a starting coordinate to a goal coordinate while avoiding obstacles[cite: 7, 21].
