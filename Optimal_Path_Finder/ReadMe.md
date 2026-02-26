@@ -31,5 +31,5 @@
 ### Compilation
 [cite_start]Navigate to the source folder and compile the Java files[cite: 166]:
 ```bash
-cd stdNO_hw8/homework8
+cd ../src
 javac *.java
